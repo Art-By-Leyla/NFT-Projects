@@ -2,7 +2,8 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our official website for showcasing Physical art and NFT.
 <br>
 
-![Art By Leyla3](https://user-images.githubusercontent.com/51270297/136642780-1e7df74a-5954-4515-b83d-c5c74184e46a.png)
+[![Alt text](https://user-images.githubusercontent.com/51270297/136642780-1e7df74a-5954-4515-b83d-c5c74184e46a.png)](https://opensea.io/artbyleylas)
+     
 <br>
 <br>
 
